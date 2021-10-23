@@ -1,0 +1,9 @@
+export const retry = require('./assets/retry.png');
+export const rewind = require('./assets/rewind.png');
+export const pause = require('./assets/pause.png');
+export const play = require('./assets/play.png');
+export const forward = require('./assets/forward.png');
+export const mute = require('./assets/mute.png');
+export const audio = require('./assets/audio.png');
+export const exitFullscreen = require('./assets/exit-fullscreen.png');
+export const fullScreen = require('./assets/full-screen.png');
